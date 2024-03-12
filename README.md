@@ -1,5 +1,4 @@
-# Bankify
-Introducing our user-friendly web-based banking application, designed to streamline your financial transactions and make banking hassle-free. With our intuitive interface, you can easily manage your accounts, check balances, transfer funds.
+
 # Web Banking Application
 
 Welcome to our web-based banking application, a secure and user-friendly platform for carrying out various banking tasks such as depositing funds, transferring money, and closing accounts.
