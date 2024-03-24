@@ -6,7 +6,7 @@ let people = [
         pin: 1234,
         transactions: [
         { type: 'withdrawl', amount: 20 , dates: '11/3/2024 4:45:48 PM',p:'abhay'},
-        { type: 'deposit', amount: 70,dates: '11/3/2024 4:45:48 PM',p:'nobin' }
+        { type: 'deposit', amount: 100,dates: '11/3/2024 4:45:48 PM',p:'nobin' }
         ],
         positive:100,
         negative:20
